@@ -12,6 +12,6 @@
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
 "developmentBuild": false,
-"multithreading": false,
+"multithreading": true,
 "unityVersion": "2019.4.0f1"
 }
